@@ -9,3 +9,4 @@ rasa-core-sdk==0.12.1
 geocoder
 tabulate
 pandas
+sklearn_crfsuite
